@@ -1,5 +1,5 @@
 # SLackathon-Chum-SVIS
-Description:
+# Description:
 Chum leverages IBM Watson to be your interactive mental health companion, offering personalized support and guidance anytime, anywhere. Using a combination of Natural Language Understanding (NLU), Tone Analysis, and other Watson services, Chum provides:
   •	Conversational Support: Talk to Chum like a friend, share your feelings, and receive non-judgmental, empathetic responses tailored to your mood and needs.
   •	Guided Exercises: Access a library of evidence-based mindfulness exercises, breathing techniques, and journaling prompts to manage stress, anxiety, and improve overall well-being.
